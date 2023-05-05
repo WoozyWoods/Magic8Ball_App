@@ -1,0 +1,4 @@
+#Tue Jan 10 16:05:25 PST 2023
+base.0=/Users/spencersmallwood/StudioProjects/magic8ball2/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
